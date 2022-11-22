@@ -1,0 +1,26 @@
+#navbar{
+  background-color: #9BA3EB;
+  padding:3% 10%;
+}
+h2{
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+#content{
+  background-color: #9BA3EB;
+}
+h3{
+color: white;
+}
+p{
+  color: white;
+}
+.container-fluid{
+  padding: 3% 7%;
+  background-color: #72FFFF;
+
+}
+#content{
+  padding: 3% 1%;
+}
